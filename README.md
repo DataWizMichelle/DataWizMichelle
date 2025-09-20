@@ -1,7 +1,7 @@
 # Hi there, I’m Michelle 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Michelle%20Débique-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelle-debique/)  
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Michelle%20Debique-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelle-debique/)  
+[![GitHub followers](https://img.shields.io/github/followers/DataWizMichelle?label=Follow&style=social)](https://github.com/DataWizMichelle)
 
 ---
 
