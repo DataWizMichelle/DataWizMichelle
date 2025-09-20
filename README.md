@@ -46,8 +46,8 @@ Curious, creative, and always learning 🌱
 ## 📫 Connect with Me
 
 - LinkedIn: [Michelle Débique](https://www.linkedin.com/in/michelle-debique/)  
-- GitHub: [yourusername](https://github.com/yourusername)  
+- GitHub: [yourusername](https://github.com/DataWizMichelle)  
 
 ---
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DataWizMichelle.DataWizMichelle)
