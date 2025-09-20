@@ -1,5 +1,3 @@
---![Michelle Débique Banner]-----(https://raw.githubusercontent.com/DataWizMichelle/DataWizMichelle/main/banner.png)
-
 # Hi there, I’m Michelle 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Michelle%20Debique-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelle-debique/)  
