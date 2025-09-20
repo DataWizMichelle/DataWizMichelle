@@ -1,4 +1,4 @@
-![Michelle Débique Banner](https://raw.githubusercontent.com/DataWizMichelle/DataWizMichelle/main/banner.png)
+--![Michelle Débique Banner]-----(https://raw.githubusercontent.com/DataWizMichelle/DataWizMichelle/main/banner.png)
 
 # Hi there, I’m Michelle 👋
 
